@@ -4,6 +4,10 @@ stupid boss
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 dev 
+<<<<<<< HEAD
 master - > 2022-6-7
 dev -> 2022-6-7
 
+=======
+dev -> 2022-6-7
+>>>>>>> dev
